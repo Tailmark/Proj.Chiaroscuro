@@ -1,2 +1,3 @@
 # Proj.Chiaroscuro
-WIP
+-WIP
+-Following Characters
